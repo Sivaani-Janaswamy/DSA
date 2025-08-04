@@ -1,6 +1,7 @@
 import java.util.*;
 public class Conditions {
     public static void main(String[]args){
+    @SuppressWarnings("deprecated")
     Scanner sc = new Scanner(System.in);
     int a,b;
     System.out.println("Enter 2 numbers: ");

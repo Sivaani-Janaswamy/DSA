@@ -1,4 +1,4 @@
-public class Generics extends Box{
+public class Generics extends Box<Object>{
     public static void main(String[]args){
         Box<String> strBox = new Box<>();
         strBox.set("Hello");

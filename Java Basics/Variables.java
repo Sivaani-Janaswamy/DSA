@@ -1,6 +1,7 @@
 import java.util.*;
 public class Variables {
     public static void main(String[]args){
+        @SuppressWarnings("deprecated")
         Scanner sc = new Scanner(System.in);
         String name;
         int age;
