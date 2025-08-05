@@ -40,7 +40,7 @@ public class ArrayLists {
             System.out.printf("%s  ",i);
         }
         System.out.println();
-        ArrayList<String> fruits2 = (ArrayList<String>) fruits.clone();
+        ArrayList<String> fruits2 = new ArrayList<>(fruits);
         fruits2.forEach((n) -> System.out.println(n));
         System.out.println();
         System.out.printf("%b",fruits2.contains("Apple"));

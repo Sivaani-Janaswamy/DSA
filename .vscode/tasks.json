@@ -6,9 +6,7 @@
       "type": "shell",
       "command": "javac",
       "args": [
-        "-d",
-        "out",
-        "${workspaceFolder}/**/*.java"
+        "${workspaceFolder}/DSA/*.java"
       ],
       "group": {
         "kind": "build",
