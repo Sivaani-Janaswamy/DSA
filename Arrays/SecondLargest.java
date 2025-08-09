@@ -7,7 +7,7 @@ public class SecondLargest {
              second = first;
              first = i;
            }
-           else if(i>second && second!=first){
+           else if(i>second && i!=first){
                 second = i;
            }
         }
