@@ -7,7 +7,7 @@ class Entry {
     }
 }
 
-class HashMap {
+class HashMaps {
     private final int SIZE = 100;
     private Entry[] table = new Entry[SIZE];
 

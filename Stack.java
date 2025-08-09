@@ -2,7 +2,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 public class Stack {
     public static void main(String[]args){
-        Deque<Integer> s = new ArrayDeque<Integer>();
+        Deque<Integer> s = new ArrayDeque<>();
         s.push(15);
         s.push(16);
         s.push(20);
