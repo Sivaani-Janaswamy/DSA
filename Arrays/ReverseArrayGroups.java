@@ -15,12 +15,11 @@ public class ReverseArrayGroups {
                 right--;
             }
             start+=k;
-            end = Math.min(start+k-1,len-1);
         }
     }
     public static void main(String[]args){
         ReverseArrayGroups rag = new ReverseArrayGroups();
-        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8};
         int k = 3;
         rag.reverseGroups(arr, k);
         for (int num : arr) {
