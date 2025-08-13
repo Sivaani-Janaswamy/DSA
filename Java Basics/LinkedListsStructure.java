@@ -1,5 +1,5 @@
 import java.util.LinkedList;
-public class LinkedLists {
+public class LinkedListsStructure {
     public static void main(String[]args){
         LinkedList<String> l = new LinkedList<>();
         l.add("Apple");
