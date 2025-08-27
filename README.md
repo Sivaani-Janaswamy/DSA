@@ -8,7 +8,7 @@ The problems are beginner friendly. Learners are advised to first understand the
 > Contributions are welcome.
 ## Arrays
 
-| #  | Problem Name                  | Difficulty | Description                                                                 | File Link |
+| #  | Problem Name                  | Difficulty | Description                                                                 | Link |
 |----|-------------------------------|------------|-----------------------------------------------------------------------------|-----------|
 | 1  | Find All Numbers Disappeared  | Easy       | Find all numbers missing from the array in range `1..n`.                    | [FindAllNumbersDisappeared.java](./Arrays/FindAllNumbersDisappeared.java) |
 | 2  | Kth Largest                   | Medium     | Find the `k`th largest element in an array.                                 | [KthLargest.java](./Arrays/KthLargest.java) |
@@ -29,4 +29,9 @@ The problems are beginner friendly. Learners are advised to first understand the
 | 17 | Stock Buy and Sell            | Medium     | Find max profit from buying and selling a stock once.                       | [StockBuyAndSell.java](./Arrays/StockBuyAndSell.java) |
 | 18 | Sum Digits                    | Easy       | Calculate the sum of digits of a number.                                    | [SumDigits.java](./Arrays/SumDigits.java) |
 | 19 | Third Largest                 | Easy       | Find the third largest element in an array.                                 | [ThirdLargest.java](./Arrays/ThirdLargest.java) |
-
+| 20 | Three Great Candidates        | Easy       |Given an array, find the maximum product of any three numbers (can be positive or negative).            | [ThreeGreatCandidates.java](./Arrays/ThreeGreatCandidates.java) |
+| 21 | Two Sum                 | Easy       | Find two indices such that the numbers at those indices add up to a given target value.                                 | [TwoSum.java](./Arrays/TwoSum.java) |
+| 22 | Wave                 | Easy       | Rearrange the array in a wave-like fashion.                                 | [Wave.java](./Arrays/Wave.java) |
+| 23 | Duplicate K | Easy | Duplicate a given element k in a fixed-length array,<br>shifting the rest to the right. | [DuplicateK.java](./Arrays/DuplicateK.java) |
+| 24 | Duplicate K II | Easy | Duplicate every occurrence of a given element k in an array, shifting elements to the right, while keeping the array size the same by removing the last elements. | [DuplicateK_II.java](./Arrays/DuplicateK_II.java) |
+| 25 | Array Leaders | Easy | Given an array of integers, find all leaders in the array. An element is a leader if it is greater than or equal to all the elements to its right. | [ArrayLeaders.java](./Arrays/ArrayLeaders.java) |
