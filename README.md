@@ -9,5 +9,5 @@ The problems are beginner friendly. Learners are advised to first understand the
 ## Arrays
 | **Sno.** | Problem | Type | Description | Links   |
 |--------------|:-----:|-----|--------------|-----------:|
-| 1.  | Duplicate K | Easy| Duplicate a given element k in a fixed-length array in place, shifting the rest to the right. | |
+| 1.  | Duplicate K | Easy| Duplicate a given element k in a fixed-length array in place, shifting the rest to the right. | [Duplicate K](Arrays\DuplicateK.java)|
 
