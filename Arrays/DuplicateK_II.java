@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class AlternateDuplicate2 {
+public class DuplicateK_II {
     public static ArrayList<Integer> duplicateK(ArrayList<Integer> arr, int k) {
         int n = arr.size();
         for (int i = 0; i < n; i++) {

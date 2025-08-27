@@ -7,18 +7,27 @@ The problems are beginner friendly. Learners are advised to first understand the
 
 > Contributions are welcome.
 ## Arrays
-| **Sno.** | Problem     | Type  | Description | Links |
-|:--------:|-------------|:-----:|-------------|-------|
-| 1        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
-| 2        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
-| 3        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
-| 4        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
-| 5        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
-| 6        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
-| 7        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
-| 8        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
-| 9        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
-| 10       | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+# Array Problems in Java
 
-
+| #  | Problem Name                  | Difficulty | Description                                                                 | File Link |
+|----|-------------------------------|------------|-----------------------------------------------------------------------------|-----------|
+| 1  | Find All Numbers Disappeared  | Easy       | Find all numbers missing from the array in range `1..n`.                    | [FindAllNumbersDisappeared.java](./Arrays/FindAllNumbersDisappeared.java) |
+| 2  | Kth Largest                   | Medium     | Find the `k`th largest element in an array.                                 | [KthLargest.java](./Arrays/KthLargest.java) |
+| 3  | Maximum Consecutive Ones      | Easy       | Find the maximum number of consecutive `1`s in a binary array.              | [MaximumConsecutiveOnes.java](./Arrays/MaximumConsecutiveOnes.java) |
+| 4  | Minimum Time Visiting All Points | Easy    | Calculate minimum time to visit all points in order on a 2D grid.           | [MinimumTimeVisitingAllPoints.java](./Arrays/MinimumTimeVisitingAllPoints.java) |
+| 5  | Missing Number                | Easy       | Find the missing number in a range `[0..n]`.                                | [MissingNumber.java](./Arrays/MissingNumber.java) |
+| 6  | Move All Zeroes               | Easy       | Move all `0`s to the end while maintaining order of other elements.         | [MoveAllZeroes.java](./Arrays/MoveAllZeroes.java) |
+| 7  | Plus One                      | Easy       | Add one to an integer represented as an array of digits.                    | [PlusOne.java](./Arrays/PlusOne.java) |
+| 8  | Ranges Array                  | Medium     | Summarize ranges of consecutive numbers in a sorted array.                  | [RangesArray.java](./Arrays/RangesArray.java) |
+| 9  | Remove All Occurrences        | Easy       | Remove all occurrences of a given value from an array.                      | [RemoveAllOccurances.java](./Arrays/RemoveAllOccurances.java) |
+| 10 | Remove Duplicates             | Easy       | Remove duplicates from a sorted array and return the new length.            | [RemoveDuplicates.java](./Arrays/RemoveDuplicates.java) |
+| 11 | Repeating Array               | Easy       | Find duplicate/repeating numbers in the array.                              | [RepeatingArray.java](./Arrays/RepeatingArray.java) |
+| 12 | Reverse Array Groups          | Easy       | Reverse elements of an array in groups of size `k`.                         | [ReverseArrayGroups.java](./Arrays/ReverseArrayGroups.java) |
+| 13 | Rotation                      | Medium     | Rotate an array `k` times to the right.                                     | [Rotation.java](./Arrays/Rotation.java) |
+| 14 | Second Largest                | Easy       | Find the second largest element in the array.                               | [SecondLargest.java](./Arrays/SecondLargest.java) |
+| 15 | Smaller Current Number        | Easy       | Count how many numbers are smaller than the current number.                 | [SmallerCurrentNumber.java](./Arrays/SmallerCurrentNumber.java) |
+| 16 | Spiral Matrix                 | Medium     | Print matrix elements in spiral order.                                      | [SpiralMatrix.java](./Arrays/SpiralMatrix.java) |
+| 17 | Stock Buy and Sell            | Medium     | Find max profit from buying and selling a stock once.                       | [StockBuyAndSell.java](./Arrays/StockBuyAndSell.java) |
+| 18 | Sum Digits                    | Easy       | Calculate the sum of digits of a number.                                    | [SumDigits.java](./Arrays/SumDigits.java) |
+| 19 | Third Largest                 | Easy       | Find the third largest element in an array.                                 | [ThirdLargest.java](./Arrays/ThirdLargest.java) |
 
