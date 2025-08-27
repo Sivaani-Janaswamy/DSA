@@ -6,6 +6,11 @@ This repository consists of mostly easy-medium problems' solutions to various da
 The problems are beginner friendly. Learners are advised to first understand the problem and try solving it by their own. If they are having difficulty solving the problem, they could look at the algorithm given above each problem' solution and try to implement it in code.
 
 > Contributions are welcome.
+
+## Contents
+- [Arrays](#Arrays)
+- [Dynamic Programming](#Dynamic-Programming)
+
 ## Arrays
 
 | #  | Problem Name                  | Difficulty | Description                                                                 | Link |
@@ -35,3 +40,4 @@ The problems are beginner friendly. Learners are advised to first understand the
 | 23 | Duplicate K | Easy | Duplicate a given element k in a fixed-length array,<br>shifting the rest to the right. | [DuplicateK.java](./Arrays/DuplicateK.java) |
 | 24 | Duplicate K II | Easy | Duplicate every occurrence of a given element k in an array, shifting elements to the right, while keeping the array size the same by removing the last elements. | [DuplicateK_II.java](./Arrays/DuplicateK_II.java) |
 | 25 | Array Leaders | Easy | Given an array of integers, find all leaders in the array. An element is a leader if it is greater than or equal to all the elements to its right. | [ArrayLeaders.java](./Arrays/ArrayLeaders.java) |
+
