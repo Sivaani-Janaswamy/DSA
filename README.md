@@ -7,7 +7,6 @@ The problems are beginner friendly. Learners are advised to first understand the
 
 > Contributions are welcome.
 ## Arrays
-# Array Problems in Java
 
 | #  | Problem Name                  | Difficulty | Description                                                                 | File Link |
 |----|-------------------------------|------------|-----------------------------------------------------------------------------|-----------|
