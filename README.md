@@ -7,7 +7,18 @@ The problems are beginner friendly. Learners are advised to first understand the
 
 > Contributions are welcome.
 ## Arrays
-| **Sno.** | Problem | Type | Description | Links   |
-|--------------|:-----:|-----|--------------|-----------:|
-| 1.  | Duplicate K | Easy| Duplicate a given element k in a fixed-length array in place, shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java)|
+| **Sno.** | Problem     | Type  | Description | Links |
+|:--------:|-------------|:-----:|-------------|-------|
+| 1        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+| 2        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+| 3        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+| 4        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+| 5        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+| 6        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+| 7        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+| 8        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+| 9        | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+| 10       | Duplicate K | Easy  | Duplicate a given element `k` in a fixed-length array,<br>shifting the rest to the right. | [Duplicate K](./Arrays/DuplicateK.java) |
+
+
 
