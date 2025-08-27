@@ -1,5 +1,5 @@
-public class AlternateDuplicate {
-    public void alternateDuplicate(int[] arr, int k) {
+public class DuplicateK {
+    public void duplicateK(int[] arr, int k) {
         int possibleDups = 0;
         int length_ = arr.length - 1;
 
@@ -30,9 +30,9 @@ public class AlternateDuplicate {
     }
 
     public static void main(String[] args) {
-        AlternateDuplicate ad = new AlternateDuplicate();
+        DuplicateK dk = new DuplicateK();
         int[] arr = {1, 0, 2, 3, 0, 4, 5, 0};
-        ad.alternateDuplicate(arr, 0);
+        dk.duplicateK(arr, 0);
         for (int i : arr) {
             System.out.print(i + " ");
         }
