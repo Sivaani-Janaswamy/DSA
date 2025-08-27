@@ -8,8 +8,12 @@ The problems are beginner friendly. Learners are advised to first understand the
 > Contributions are welcome.
 
 ## Contents
-- [Arrays](#Arrays)
-- [Dynamic Programming](#Dynamic-Programming)
+- [Arrays](#arrays)
+- [Linked Lists](#linked-lists)
+- [Queues](#queues)
+- [Stacks](#stacks)
+- [Trees](#Trees)
+- [Dynamic Programming](#dynamic-programming)
 
 ## Arrays
 
