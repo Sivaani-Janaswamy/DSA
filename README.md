@@ -8,6 +8,7 @@ The problems are beginner friendly. Learners are advised to first understand the
 > Contributions are welcome.
 
 ## Contents
+- [Java Basics](#java-basics)
 - [Arrays](#arrays)
 - [Linked Lists](#linked-lists)
 - [Queues](#queues)
