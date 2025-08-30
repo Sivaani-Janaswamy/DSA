@@ -16,6 +16,36 @@ The problems are beginner friendly. Learners are advised to first understand the
 - [Trees](#Trees)
 - [Dynamic Programming](#dynamic-programming)
 
+## Java Basics
+| #  | Problem Name                | Difficulty | Description                                                   | Link |
+|----|-----------------------------|------------|---------------------------------------------------------------|------|
+| 1  | ArrayLists                  | Easy       | Implementation and usage of ArrayList                         | [ArrayLists.java](./JavaBasics/ArrayLists.java) |
+| 2  | Arrays                      | Easy       | Operations and problems related to arrays                     | [Arrays.java](./JavaBasics/Arrays.java) |
+| 3  | BinaryTree                  | Medium     | Binary tree structure and operations                          | [BinaryTree.java](./JavaBasics/BinaryTree.java) |
+| 4  | Box                         | Easy       | Example of class and objects                                  | [Box.java](./JavaBasics/Box.java) |
+| 5  | Conditions                  | Easy       | If-else, switch-case examples                                 | [Conditions.java](./JavaBasics/Conditions.java) |
+| 6  | CountWords                  | Easy       | Program to count words in a string                            | [CountWords.java](./JavaBasics/CountWords.java) |
+| 7  | Generics                    | Medium     | Example usage of generics in Java                             | [Generics.java](./JavaBasics/Generics.java) |
+| 8  | HashMaps                    | Medium     | Implementation and usage of HashMap                           | [HashMaps.java](./JavaBasics/HashMaps.java) |
+| 9  | HashSets                    | Medium     | Implementation and usage of HashSet                           | [HashSets.java](./JavaBasics/HashSets.java) |
+| 10 | HelloWorld                  | Easy       | Basic Hello World program                                     | [HelloWorld.java](./JavaBasics/HelloWorld.java) |
+| 11 | Iterators                   | Medium     | Using Iterators in collections                                | [Iterators.java](./JavaBasics/Iterators.java) |
+| 12 | LinkedLists                 | Medium     | Implementation and usage of LinkedList                        | [LinkedLists.java](./JavaBasics/LinkedLists.java) |
+| 13 | LinkedListsStructure        | Medium     | Custom linked list implementation                             | [LinkedListsStructure.java](./JavaBasics/LinkedListsStructure.java) |
+| 14 | Loops                       | Easy       | Examples of for, while, do-while loops                        | [Loops.java](./JavaBasics/Loops.java) |
+| 15 | Main                        | Easy       | Main class for running programs                               | [Main.java](./JavaBasics/Main.java) |
+| 16 | Maths                       | Easy       | Mathematical operations and functions                         | [Maths.java](./JavaBasics/Maths.java) |
+| 17 | Node                        | Medium     | Node structure for LinkedList / Tree                          | [Node.java](./JavaBasics/Node.java) |
+| 18 | PriortyQueues               | Medium     | Priority Queue implementation                                 | [PriortyQueues.java](./JavaBasics/PriortyQueues.java) |
+| 19 | QueueArray                  | Medium     | Queue implementation using arrays                             | [QueueArray.java](./JavaBasics/QueueArray.java) |
+| 20 | Queues                      | Medium     | Queue implementation and usage                                | [Queues.java](./JavaBasics/Queues.java) |
+| 21 | RegularExpression           | Medium     | Regular expressions in Java                                   | [RegularExpression.java](./JavaBasics/RegularExpression.java) |
+| 22 | SinglyLinkedList            | Medium     | Singly linked list implementation                             | [SinglyLinkedList.java](./JavaBasics/SinglyLinkedList.java) |
+| 23 | Stack                       | Medium     | Stack implementation and usage                                | [Stack.java](./JavaBasics/Stack.java) |
+| 24 | StackArray                      | Medium     | Stack implementation and usage in form of Array                               | [StackArray.java](./JavaBasics/StackArray.java) |
+| 25 | Variables                       | Easy     | Understanding Variables, datatypes and their usage                                | [Variables.java](./JavaBasics/Variables.java) |
+
+
 ## Arrays
 
 | #  | Problem Name                  | Difficulty | Description                                                                 | Link |
@@ -45,4 +75,19 @@ The problems are beginner friendly. Learners are advised to first understand the
 | 23 | Duplicate K | Easy | Duplicate a given element k in a fixed-length array,<br>shifting the rest to the right. | [DuplicateK.java](./Arrays/DuplicateK.java) |
 | 24 | Duplicate K II | Easy | Duplicate every occurrence of a given element k in an array, shifting elements to the right, while keeping the array size the same by removing the last elements. | [DuplicateK_II.java](./Arrays/DuplicateK_II.java) |
 | 25 | Array Leaders | Easy | Given an array of integers, find all leaders in the array. An element is a leader if it is greater than or equal to all the elements to its right. | [ArrayLeaders.java](./Arrays/ArrayLeaders.java) |
+
+## Stacks
+| #  | Problem Name                  | Difficulty | Description                                                                 | Link |
+|----|-------------------------------|------------|-----------------------------------------------------------------------------|-----------|
+| 1 | Valid Parentheses                   | Easy   | Given a string s containing three types of brackets {}, () and []. We have to determine whether the brackets are balanced.                         | [ValidParentheses.java](./Stacks/ValidParentheses.java) |
+
+## Dynamic Programming
+| #  | Problem Name                  | Difficulty | Description                                                                 | Link |
+|----|-------------------------------|------------|-----------------------------------------------------------------------------|-----------|
+| #  | Problem Name             | Difficulty | Description                                      | Link |
+|----|--------------------------|------------|--------------------------------------------------|------|
+| 1  | Fibonacci                | Easy       | Recursive implementation of Fibonacci sequence   | [Fibonacci.java](./Dynamic%20Programming/Fibonacci.java) |
+| 2  | FibonacciBottomsUp       | Medium     | Bottom-up (DP) implementation of Fibonacci       | [FibonacciBottomsUp.java](./Dynamic%20Programming/FibonacciBottomsUp.java) |
+
+                
 
