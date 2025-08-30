@@ -82,8 +82,6 @@ The problems are beginner friendly. Learners are advised to first understand the
 | 1 | Valid Parentheses                   | Easy   | Given a string s containing three types of brackets {}, () and []. We have to determine whether the brackets are balanced.                         | [ValidParentheses.java](./Stacks/ValidParentheses.java) |
 
 ## Dynamic Programming
-| #  | Problem Name                  | Difficulty | Description                                                                 | Link |
-|----|-------------------------------|------------|-----------------------------------------------------------------------------|-----------|
 | #  | Problem Name             | Difficulty | Description                                      | Link |
 |----|--------------------------|------------|--------------------------------------------------|------|
 | 1  | Fibonacci                | Easy       | Recursive implementation of Fibonacci sequence   | [Fibonacci.java](./Dynamic%20Programming/Fibonacci.java) |
